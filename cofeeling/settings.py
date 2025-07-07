@@ -37,10 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'bgmaker',  # Background task app
-    'stress',  # Stress test app
-    'weather',  # Weather app
-    'cofeeling',  # Main app for the project
+    'cofeeling',  # Your app
 ]
 
 MIDDLEWARE = [
