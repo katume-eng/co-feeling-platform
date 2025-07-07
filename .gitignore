@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Django
+*.log
+*.pot
+*.pyc
+db.sqlite3
+media/
+staticfiles/
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Pytest
+.cache/
+
+# Migrations (optional, if you don't want to track them)
+# **/migrations/
+
+# Local settings
+*.env
+.env.*
